@@ -35,7 +35,7 @@ class _HeyState extends State<Hey> {
           }),
           Checkbox(value: valueCheck, onChanged: (value){
             setState((){
-              print("kb");
+              print("sdg"):
             });
             valueCheck=value!;
           }),
